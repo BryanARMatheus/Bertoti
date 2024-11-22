@@ -142,3 +142,6 @@ class TestePortoNaval {
 
 }
 ```
+## UML das classes utilizadas no teste JUNIT
+
+![UMLCLasses](https://github.com/user-attachments/assets/29086d81-f683-400b-9822-fed65081ead4)
