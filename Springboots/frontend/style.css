@@ -1,0 +1,71 @@
+body {
+    background-image: url("gifs/water028.gif");
+    color: white;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#container {
+    background-color: black;
+    text-align: center;
+    width: 100%;
+    max-width: 1100px;
+    padding: 20px;
+}
+
+.tab {
+    display: none;
+    padding: 20px;
+    border: 1px solid #ccc;
+    margin-top: 10px;
+}
+
+#list-content {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.ship-item {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+
+button {
+    background-color: black;
+    border-radius: 0px;
+    color: white;
+    min-width: 120px;
+    cursor: pointer;
+    padding: 8px 16px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: rgb(35, 35, 35);
+}
+
+select{
+    background-color: black;
+    color: white;
+    margin-bottom: 20px;
+}
+
+input{
+    background-color: black;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.tab-gifs {
+    margin-right: 10px;
+    width: 120px; 
+    height: 120px;
+    object-fit: contain;
+}

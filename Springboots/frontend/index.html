@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ships</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div id="container">
+        <img src="gifs/boat532.gif" alt="Barco">
+        <h1>Navios</h1>
+        <img src="gifs/homey.gif" alt="Home" class="tab-gifs">
+        <img src="gifs/boat4.gif" alt="+" class="tab-gifs">
+        <img src="gifs/boat1.gif" alt="Barco2" class="tab-gifs">
+        <img src="gifs/FLAMES.gif" alt="Fogo" class="tab-gifs">
+        <div id="buttons">
+            <button id="refresh-button">Listar</button>
+            <button id="edit-button" style="color:blue ;">Editar</button>
+            <button id="create-button" style="color: greenyellow;">Criar</button>
+            <button id="delete-button" style="color: red;">Deletar</button>
+        </div>
+
+        <div id="list-ships" class="tab" style="display: none;">
+            <img src="gifs/boat5322.gif" alt="Barco andando">
+            <h2>Listagem de Navios</h2>
+            <div id="list-content"></div>
+        </div>
+
+        <div id="create-ships" class="tab" style="display: none;">
+            <img src="gifs/construction.gif" alt="Construção">
+            <h2 style="color:greenyellow ;">Criação de Navios</h2>
+            <input type="text" id="create-name" placeholder="Nome">
+            <input type="text" id="create-faction" placeholder="Facção">
+            <input type="text" id="create-construction" placeholder="Ano de construção">
+            <button id="create-submit" style="color:greenyellow ;">Criar Barco</button>
+        </div>
+
+        <div id="edit-ships" class="tab" style="display: none;">
+            <img src="gifs/writing.gif" alt="Livro">
+            <h2 style="color:blue ;">Edição de Navios</h2>
+            <select id="edit-select"></select>
+            <input type="text" id="edit-name" placeholder="Nome">
+            <input type="text" id="edit-faction" placeholder="Facção">
+            <input type="text" id="edit-construction" placeholder="Ano de construção">
+            <button id="edit-submit" style="color:blue;">Confirmar Edição</button>
+        </div>
+
+        <div id="delete-ships" class="tab" style="display: none;">
+            <img src="gifs/attention_sign.gif" alt="Atenção">
+            <h2 style="color:red ;">Deleção de Navios</h2>
+            <select id="delete-select"></select>
+            <button id="delete-submit" style="color:red;">Confirmar Deleção</button>
+        </div>
+    </div>
+    </div>
+</body>
+<script src="script.js"></script>
+
+</html>
