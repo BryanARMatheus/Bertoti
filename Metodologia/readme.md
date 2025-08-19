@@ -2,7 +2,7 @@
 
 ## Introdução
 
-Ola sou o Bryan um estudante de banco de dados e estou sempre procurando maneiras de expandir meu conhecimendo na area de técnologia da informação, me formei previamente na ETEC Machado de Assis e atualmente estou cursando o curso de técnologo em banco de dados.
+Ola sou o Bryan um estudante de banco de dados e estou sempre procurando maneiras de expandir meu conhecimendo na area de técnologia da informação, me formei previamente na ETEC Machado de Assis e atualmente estou cursando o curso de técnologo em banco de dados na FATEC de São José dos Campos - Jessen Vidal.
 Foto
 
 ## Contatos
@@ -21,7 +21,8 @@ CSS
 ### Em 2025-1
 Fale sobre o projeto desenvolvido. Apresente a empresa parceira, o problema e a solução entregue pela equipe (mínimo de um parágrafo por item). Recomenda-se o uso de figuras (ou até mesmo vídeos) para ilustrar os principais projetos.
 O projeto que desenvolvemos no primeiro semestre de 2025 foi um sistema de registro de movimentações para a empresa Altave, o projeto foi feito utilizando vue.js juntamente com a biblioteca ant design vue, aplicamos java e springboot no backend do projeto.
-A empresa parceira Altave foca no desenvolvimento de balões para monitoramento inteligente de areas extensas, alem de tecnologias utilizando Inteligencia Artificial e video analytics para identificação de riscos no local de trabalho os catastrofes ambientais. 
+A empresa parceira Altave foca no desenvolvimento de balões para monitoramento inteligente de areas extensas, alem de tecnologias utilizando Inteligencia Artificial e video analytics para identificação de riscos no local de trabalho os catastrofes ambientais.
+Nos foi apresentado o seguinte problema, 
 
 [GIT - FrontEnd](https://github.com/SQLutions-FATEC/API-3-Semestre-Frontend.git)
 [GIT - BackEnd](https://github.com/SQLutions-FATEC/API-3-Semestre-Backend.git)
@@ -67,6 +68,7 @@ Mesmo formato
 
 ### Em 2023-2
 Mesmo formato
+
 
 
 
