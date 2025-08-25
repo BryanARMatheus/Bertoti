@@ -1,5 +1,13 @@
-package Padrão;
+package Estratégia.Padrão;
 
 public class Tiro {
-    private Double tamanho;
+    Tipo tipo;
+
+    public void setTipo(Tipo tipo) {
+        this.tipo = tipo;
+    }
+
+    public double conseguirVelocidade() {
+        return tipo.calcVelocidade();
+    }
 }

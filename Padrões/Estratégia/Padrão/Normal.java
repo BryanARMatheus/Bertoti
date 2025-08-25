@@ -1,4 +1,8 @@
-package Padrão;
+package Estratégia.Padrão;
 
-public class Normal {
+public class Normal implements Tipo{
+    @Override
+    public double calcVelocidade() {
+        return 1;
+    }
 }

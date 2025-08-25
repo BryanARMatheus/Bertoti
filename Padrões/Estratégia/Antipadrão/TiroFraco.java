@@ -1,9 +1,9 @@
-package Antipadrão;
+package Estratégia.Antipadrão;
 
 public class TiroFraco extends Tiro {
 
     @Override
     public double calcVelocidade() {
-        return this.tamanho * 1.4;
+        return 1 * 1.4;
     }
 }

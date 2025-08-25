@@ -1,4 +1,4 @@
-package Antipadrão;
+package Estratégia.Antipadrão;
 
 public class TiroNormal {
     
