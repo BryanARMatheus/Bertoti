@@ -5,7 +5,7 @@ import java.util.List;
 
 import interfaces.InventoryItem;
 
-public class InventoryContainer {
+public class InventoryContainer implements InventoryComponent{
     private String name;
     private List<InventoryItem> items = new ArrayList<>();
     private int containerWeight;
