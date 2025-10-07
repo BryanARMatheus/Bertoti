@@ -1,7 +1,7 @@
-package src.items;
+package items;
 
-import src.interfaces.InventoryItem;
-import src.types.WeaponType;
+import interfaces.InventoryItem;
+import types.WeaponType;
 
 public class Weapon implements InventoryItem {
     private String name;
@@ -10,9 +10,17 @@ public class Weapon implements InventoryItem {
     private int damage;
     private WeaponType weaponType;
 
+    public Weapon(String name, int weight, int value, int damage, WeaponType weaponType) {
+        this.name = name;
+        this.weight = weight;
+        this.value = value;
+        this.damage = damage;
+        this.weaponType = weaponType;
+    }
+
     @Override
-    public void use(Character character) {
-        System.out.println("Você equipou uma: " + weaponType +
+    public void use() {
+        System.out.println("Você equipou: " + weaponType.getDisplayName() +
                 "\n Nome: " + name);
     }
 

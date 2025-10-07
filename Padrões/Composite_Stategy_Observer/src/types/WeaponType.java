@@ -1,4 +1,4 @@
-package src.types;
+package types;
 
 public enum WeaponType {
     SWORD("Espada"),
@@ -11,5 +11,9 @@ public enum WeaponType {
 
     WeaponType(String displayName) {
         this.displayName = displayName;
+    }
+
+    public String getDisplayName() {
+        return displayName;
     }
 }

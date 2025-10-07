@@ -1,20 +1,24 @@
 package eventhandlers;
 
+import interfaces.InventoryItem;
+import types.EventType;
+
 public class InventoryEvent {
 
-    private EventType EventType;
-    private inventoryItem item;
+    private EventType eventType;
+    private InventoryItem item;
     private InventoryContainer inventory;
 
-    public InventoryEvent(eventhandlers.EventType eventType, inventoryItem item, InventoryContainer inventory) {
-        EventType = eventType;
+    public InventoryEvent(EventType eventType, InventoryItem item, InventoryContainer inventory) {
+        this.eventType = eventType;
         this.item = item;
         this.inventory = inventory;
     }
+
     public EventType getEventType() {
-        return EventType;
+        return eventType;
     }
-    public inventoryItem getItem() {
+    public InventoryItem getItem() {
         return item;
     }
     public InventoryContainer getInventory() {

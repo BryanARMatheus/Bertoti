@@ -1,7 +1,7 @@
-package src.items;
+package items;
 
-import src.interfaces.InventoryItem;
-import src.types.ArmorType;
+import interfaces.InventoryItem;
+import types.ArmorType;
 
 public class Armor implements InventoryItem{
     private String name;
@@ -11,9 +11,17 @@ public class Armor implements InventoryItem{
     private ArmorType armorType;
 
     @Override
-    public void use(Character character) {
-        System.out.println("Você equipou uma: " + armorType +
+    public void use() {
+        System.out.println("Você equipou: " + armorType.getDisplayName() +
                 "\n Nome: " + name);
+    }
+
+    public Armor(String name, int weight, int value, int defense, ArmorType armorType) {
+        this.name = name;
+        this.weight = weight;
+        this.value = value;
+        this.defense = defense;
+        this.armorType = armorType;
     }
 
     @Override

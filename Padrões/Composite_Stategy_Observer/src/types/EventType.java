@@ -1,4 +1,4 @@
-package src.types;
+package types;
 
 public enum EventType {
     ITEM_ADDED,
