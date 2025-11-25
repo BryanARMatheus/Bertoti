@@ -41,9 +41,9 @@ Nossa solução foi uma aplicação web que permitia o cadastro e pesquisa de fu
 
 #### Contribuições Pessoais
 Neste projeto atuei em grande parte no Frontend do projeto, estas foram minhas principais contribuições:
-Tela de cadastro de funcionario: Desenvolvi as telas de cadastro de funcionario utilizando vue.js, utilizei conceitos basicos de JavaScript, aprendi sobre o framework Vue.js, sobre o Axios e como conectar com o backend em springboot a partir dele;
-Tabela de registro de movimentações: Ajudei no desenvolvimento na tabela de registros de movimentações, adicionei colunas, aprendi sobre formatação de dados recebidos do backend, tambem adicionei a função de editar esses registros reforçando as habilidades de utilizar os serviços do axios e enviar os dados para o backend;
-FUnção de exportação em .csv: Por ultimo fiz a função exportação e formatação de todos os dados de movimentações em um formato .csv, isto me ensinou sobre as vastas funcionalidades que as bibliotecas do JavaScript conseguem realizar, sobre métodos de buffering, como a paginação das informações funcionava, como modificar um request para o backend e como formatar os dados para um arquivo .csv a partir da biblioteca utilizada.
+- **Tela de cadastro de funcionario:** Desenvolvi as telas de cadastro de funcionario utilizando vue.js, utilizei conceitos basicos de JavaScript, aprendi sobre o framework Vue.js, sobre o Axios e como conectar com o backend em springboot a partir dele;
+- **Tabela de registro de movimentações:** Ajudei no desenvolvimento na tabela de registros de movimentações, adicionei colunas, aprendi sobre formatação de dados recebidos do backend, tambem adicionei a função de editar esses registros reforçando as habilidades de utilizar os serviços do axios e enviar os dados para o backend;
+- **Função de exportação de dados em .csv:** Por ultimo fiz a função exportação e formatação de todos os dados de movimentações em um formato .csv, isto me ensinou sobre as vastas funcionalidades que as bibliotecas do JavaScript conseguem realizar, sobre métodos de buffering, como a paginação das informações funcionava, como modificar um request para o backend e como formatar os dados para um arquivo .csv a partir da biblioteca utilizada.
 
 #### Hard Skills
 Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
@@ -69,6 +69,7 @@ Mesmo formato
 
 ### Em 2023-2
 Mesmo formato
+
 
 
 
