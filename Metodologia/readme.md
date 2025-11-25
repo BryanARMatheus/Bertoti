@@ -40,15 +40,18 @@ Nossa solução foi uma aplicação web que permitia o cadastro e pesquisa de fu
 - **PostgreSQL:** O sistema de banco de dados selecionado para o projeto, é um banco de dados relacional com acesso a diversos recursos e com certo foco para integridade de dados.
 
 #### Contribuições Pessoais
-Neste projeto atuei em grande parte no Frontend do projeto, desenvolvi as telas de cadastro de funcionario utilizando vue.js e conectei com o backend em springboot, juntamente ajudei no desenvolvimento na tabela de registros de movimentações, por ultimo fiz a função exportação e formatação de todos os dados de movimentações em um formato .csv.
+Neste projeto atuei em grande parte no Frontend do projeto, estas foram minhas principais contribuições:
+Tela de cadastro de funcionario: Desenvolvi as telas de cadastro de funcionario utilizando vue.js, utilizei conceitos basicos de JavaScript, aprendi sobre o framework Vue.js, sobre o Axios e como conectar com o backend em springboot a partir dele;
+Tabela de registro de movimentações: Ajudei no desenvolvimento na tabela de registros de movimentações, adicionei colunas, aprendi sobre formatação de dados recebidos do backend, tambem adicionei a função de editar esses registros reforçando as habilidades de utilizar os serviços do axios e enviar os dados para o backend;
+FUnção de exportação em .csv: Por ultimo fiz a função exportação e formatação de todos os dados de movimentações em um formato .csv, isto me ensinou sobre as vastas funcionalidades que as bibliotecas do JavaScript conseguem realizar, sobre métodos de buffering, como a paginação das informações funcionava, como modificar um request para o backend e como formatar os dados para um arquivo .csv a partir da biblioteca utilizada.
 
 #### Hard Skills
 Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o nível de proficiência alcançado. Exemplo: CSS - Sei fazer com autonomia
-- **Vue.js:** Conhecimento intermediário, desenvolvi paginas e componentes para diferentes telas de visualização, adquiri certo conhecimento na conexão e utilização de serviços a partir do backend.  
-- **CSS:** Conhecimento intermediário, ao desenvolver paginas aprimorei minha habilidade de estilização de telas, tambem aprendi sobre o uso de tecnologias como SASS para auxiliar em reutilização de códigos. 
-- **Java:** Conhecimento intermediário, fiz algumas correções leves ao backend, isto levou a uma necessidade de estudo aprofundada que contribuiu para meus conhecimentos em orientação a objetos, tratamento de exceções, regras de codigo limpo e utilização de streams.
-- **PostgreSQL/SQL:** Conhecimento básico, utilizei e aprimorei meus conhecimentos sobre diversos conceitos de consultas sql, modelagem de entidades e administração de um banco de dados relacional.
-- **Docker:** Conhecimento básico, fui introduzido ao conceito de imagens, containers e ambientes virtuais para desenvolvimento.  
+- **Vue.js:** Desenvolvi paginas e componentes para diferentes telas de visualização, adquiri certo conhecimento na conexão e utilização de serviços a partir do backend.  
+- **CSS:** Ao desenvolver paginas aprimorei minha habilidade de estilização de telas, tambem aprendi sobre o uso de tecnologias como SASS para auxiliar em reutilização de códigos. 
+- **Java:** Fiz algumas correções leves ao backend, isto levou a uma necessidade de estudo aprofundada que contribuiu para meus conhecimentos em orientação a objetos, tratamento de exceções, regras de codigo limpo e utilização de streams.
+- **PostgreSQL/SQL:** Utilizei e aprimorei meus conhecimentos sobre diversos conceitos de consultas sql, modelagem de entidades e administração de um banco de dados relacional.
+- **Docker:** Fui introduzido ao conceito de imagens, containers e ambientes virtuais para desenvolvimento.  
 
 #### Soft Skills
 **Comunicação:** Pratiquei frequentemente comunicação com o time inteiro, com isso aprendi a reconhecer possíveis desafios no desenvolvimento do projeto, interagir e explicar minhas ideias para diferentes tipos de pessoas. 
@@ -66,6 +69,7 @@ Mesmo formato
 
 ### Em 2023-2
 Mesmo formato
+
 
 
 
