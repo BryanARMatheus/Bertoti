@@ -1,9 +1,10 @@
 package Antipadrão;
 
-public class SmallEnemySpider implements Enemy{
+public class SmallEnemySpider extends BossAdapter{
     private int hp;
     private int atk;
 
+    @Override
     public void takeDamage(int damageTaken){
         this.hp = this.hp - damageTaken;
     }

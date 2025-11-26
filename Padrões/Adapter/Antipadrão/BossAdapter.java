@@ -1,10 +1,9 @@
 package Antipadrão;
 
-public class BossAdapter implements Enemy{
+public class BossAdapter {
 
     GiantEnemySpider boss;
 
-    @Override
     public void takeDamage(int damageTaken) {
         int temp =  boss.getHp() - (damageTaken - boss.getArmor());
         boss.setHp(temp);
