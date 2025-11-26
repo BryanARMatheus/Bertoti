@@ -1,8 +1,7 @@
 package interfaces;
 
-public interface InventoryItem extends InventoryComponent{
+public interface InventoryComponent {
     String getName();
     int getWeight();
     int getValue();
-    void use();
 }
