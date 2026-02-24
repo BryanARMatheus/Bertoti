@@ -21,7 +21,59 @@ Java: Tenho conhecimento basico sobre Java e framkeworks como Springboot para de
 
 ## Meus Projetos
 
-### Em 2025-1
+### Em 2024-1 (Calculadora Cientifica)
+O projeto que desenvolvemos no primeiro semestre de 2024 foi ...
+
+A empresa parceira ...
+
+Então nos foi apresentado o seguinte problema: ...
+
+Nossa solução foi ...
+
+[Repositorio do projeto](https://github.com/SQLutions-FATEC/API-1-Semestre)
+
+#### Tecnologias Utilizadas
+- **Tecnologia:** explicação
+
+#### Contribuições Pessoais
+Neste projeto atuei ...
+- **Feature:** ...
+
+#### Hard Skills
+Neste projeto desenvolvi as seguintes hardskills:
+- **Tecnologia:** ...
+
+#### Soft Skills
+Tambem trabalhei nas minhas soft skills em especial:
+**Soft skill:**
+
+### Em 2024-2 (Sistema PACER)
+O projeto que desenvolvemos no segundo semestre de 2024 foi ...
+
+A empresa parceira ...
+
+Então nos foi apresentado o seguinte problema: ...
+
+Nossa solução foi ...
+
+[Repositorio do projeto](https://github.com/SQLutions-FATEC/API-2-Semestre)
+
+#### Tecnologias Utilizadas
+- **Tecnologia:** explicação
+
+#### Contribuições Pessoais
+Neste projeto atuei ...
+- **Feature:** ...
+
+#### Hard Skills
+Neste projeto desenvolvi as seguintes hardskills:
+- **Tecnologia:** ...
+
+#### Soft Skills
+Tambem trabalhei nas minhas soft skills em especial:
+**Soft skill:**
+
+### Em 2025-1 (Sistema de registro de pontos)
 O projeto que desenvolvemos no primeiro semestre de 2025 foi um sistema de registro de movimentações para a empresa Altave, o projeto foi feito utilizando vue.js juntamente com a biblioteca ant design vue, aplicamos java e springboot no backend do projeto.
 
 A empresa parceira Altave foca no desenvolvimento de balões para monitoramento inteligente de areas extensas, alem de tecnologias utilizando Inteligencia Artificial e video analytics para identificação de riscos no local de trabalho os catastrofes ambientais.
@@ -58,25 +110,81 @@ Apresente as hard skills que você utilizou/desenvolveu durante o projeto e o n�
 
 **Trabalho em equipe:** Exercitei em muito o trabalho em equipe, verificando o andamento dos cards do resto do time e proporcionando ajuda no que eu conseguia, aprendi a pedir ajuda a diferentes membros do time quando ficava preso em alguma parte do desenvolvimento, alem de sempre perguntar o que eu não sabia a membros mais experientes no grupo.
 
-### Em 2022-1
-Mesmo formato
+### Em 2025-2 (Sistema de Mobilidade Urbana)
+O projeto que desenvolvemos no segundo semestre de 2025 foi ...
 
-### Em 2022-2
-Mesmo formato
+A empresa parceira ...
 
-### Em 2023-1
-Mesmo formato
+Então nos foi apresentado o seguinte problema: ...
 
-### Em 2023-2
-Mesmo formato
+Nossa solução foi ...
 
+[Repositorio do projeto](https://github.com/SQLutions-FATEC/API-4-Semestre)
 
+#### Tecnologias Utilizadas
+- **Tecnologia:** explicação
 
+#### Contribuições Pessoais
+Neste projeto atuei ...
+- **Feature:** ...
 
+#### Hard Skills
+Neste projeto desenvolvi as seguintes hardskills:
+- **Tecnologia:** ...
 
+#### Soft Skills
+Tambem trabalhei nas minhas soft skills em especial:
+**Soft skill:**
 
+### Em 2026-1 (???)
+O projeto que desenvolvemos no primeiro semestre de 2026 foi ...
 
+A empresa parceira ...
 
+Então nos foi apresentado o seguinte problema: ...
 
+Nossa solução foi ...
 
+[Repositorio do projeto](https://github.com/SQLutions-FATEC/API-5-Semestre)
 
+#### Tecnologias Utilizadas
+- **Tecnologia:** explicação
+
+#### Contribuições Pessoais
+Neste projeto atuei ...
+- **Feature:** ...
+
+#### Hard Skills
+Neste projeto desenvolvi as seguintes hardskills:
+- **Tecnologia:** ...
+
+#### Soft Skills
+Tambem trabalhei nas minhas soft skills em especial:
+**Soft skill:**
+
+### Em 2026-2 (???)
+
+O projeto que desenvolvemos no segundo semestre de 2026 foi ...
+
+A empresa parceira ...
+
+Então nos foi apresentado o seguinte problema: ...
+
+Nossa solução foi ...
+
+[Repositorio do projeto](https://github.com/SQLutions-FATEC/API-6-Semestre)
+
+#### Tecnologias Utilizadas
+- **Tecnologia:** explicação
+
+#### Contribuições Pessoais
+Neste projeto atuei ...
+- **Feature:** ...
+
+#### Hard Skills
+Neste projeto desenvolvi as seguintes hardskills:
+- **Tecnologia:** ...
+
+#### Soft Skills
+Tambem trabalhei nas minhas soft skills em especial:
+**Soft skill:**
