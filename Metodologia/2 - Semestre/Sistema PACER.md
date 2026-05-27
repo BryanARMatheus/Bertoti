@@ -39,7 +39,7 @@ Utilizado como ferramenta de _UI/UX Design_ para a concepção e prototipagem de
 
 Com atuação unificada em todo o ciclo de desenvolvimento (_Full-Stack_), fui responsável pela arquitetura de módulos visuais e por lógicas complexas de processamento no _back-end_. Minhas principais contribuições incluíram:
 
-- **Subsistema de Ingestão e Processamento de CSV:** Projetei e implementei o pipeline de importação de arquivos textuais. Desenvolvi a lógica do _back-end_ para o tratamento e validação sintática das linhas do arquivo `.csv`, bem como a interface gráfica correspondente para o upload e acompanhamento visual da carga de dados.
+- **Subsistema de Ingestão e Processamento de CSV:** Projetei e implementei o pipeline de importação de arquivos textuais. Desenvolvi a lógica do _back-end_ para o tratamento e validação sintática das linhas do arquivo `.csv`.
     
 - **Módulo de Monitoramento de Equipes (Painel Dinâmico):** Desenvolvi a tela principal de consulta de equipes. Para os alunos, a interface exibe de forma restrita o desempenho consolidado de seu respectivo grupo; para os docentes, implementei componentes de seleção que acionam consultas parametrizadas para renderizar as médias em tempo real de qualquer equipe cadastrada.
     
@@ -59,6 +59,6 @@ Com atuação unificada em todo o ciclo de desenvolvimento (_Full-Stack_), fui r
 
 ### Soft Skills
 
-- **Trabalho em Equipe e Engenharia Colaborativa:** Aprimoramento na dinâmica de desenvolvimento em equipe, atuando de maneira sinérgica no auxílio mútuo entre pares e no alinhamento de interfaces técnicas para garantir o acoplamento correto entre as diferentes telas do sistema.
+- **Trabalho em Equipe e Engenharia Colaborativa:** Aprimoramento na dinâmica de desenvolvimento em equipe, providenciando ajuda aos membros e alinhando interfaces técnicas para garantir o acoplamento correto entre as diferentes telas do sistema.
     
-- **Adaptabilidade em Cultura Ágil:** Exercício prático na entrega contínua de software funcional, integrando requisitos multidisciplinares de forma iterativa ao longo do ciclo do projeto.
+- **Adaptabilidade em Cultura Ágil:** Exercício prático na entrega contínua de software funcional, integrando requisitos de múltiplas matérias de forma iterativa ao longo do ciclo do projeto.

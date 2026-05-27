@@ -36,6 +36,10 @@ Como Sistema Gerenciador de Banco de Dados (SGBD), optou-se pelo PostgreSQL. Tra
 
 A plataforma Docker foi integrada ao fluxo de trabalho para centralizar e isolar a aplicação em contêineres independentes. Através do empacotamento do código e de suas dependências em imagens Docker, mitigou-se o clássico problema de inconsistência de ambiente ("*funciona na minha máquina*"), padronizando a execução do sistema em qualquer infraestrutura.
 
+### Figma
+
+Utilizado como ferramenta de _UI/UX Design_ para a concepção e prototipagem de alta fidelidade das interfaces. O Figma permitiu realizar o mapeamento do fluxo do usuário, a distribuição espacial de componentes e a validação do layout antes do estágio de codificação.
+
 ---
 
 ## 3. Contribuição para o Projeto

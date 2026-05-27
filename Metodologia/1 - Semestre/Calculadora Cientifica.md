@@ -51,6 +51,6 @@ Minha atuação no projeto concentrou-se no desenvolvimento do núcleo de proces
 
 ### Soft Skills
 
-- **Comunicação Assertiva:** Participação ativa em reuniões de alinhamento (_Daily Meetings_) semanais para exposição do progresso técnico e compartilhamento de ideias, otimizando o fluxo de aprendizado diante de novos conceitos.
+- **Comunicação:** Participação ativa em reuniões de alinhamento (_Daily Meetings_) semanais para exposição do progresso técnico e compartilhamento de ideias, otimizando o fluxo de aprendizado diante de novos conceitos.
     
 - **Trabalho em Equipe e Cultura Ágil:** Engajamento no gerenciamento de tarefas por meio de fluxos de trabalho visuais (quadros de _cards_), colaborando diretamente com os pares e exercitando a proatividade ao buscar suporte técnico com integrantes mais experientes sempre que surgiam barreiras complexas de desenvolvimento.
