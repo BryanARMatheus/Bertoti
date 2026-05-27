@@ -5,7 +5,7 @@
 ---
 ## 1. Descrição do Projeto
 
-O projeto desenvolvido no segundo semestre de 2026 consistiu no desenvolvimento de uma **Plataforma de Inteligência de Dados Orientada à Mobilidade Urbana**, voltada para o monitoramento de radares e fluxo viário do município de São José dos Campos. O sistema realiza a ingestão e a análise de grandes volumes de dados de telemetria urbana, transformando registros brutos de tráfego em _dashboards_ interativos e indicadores gerenciais estratégicos. O produto foi projetado para atender tanto às demandas operacionais de gestores públicos da **Prefeitura de São José dos Campos** quanto às necessidades de consulta informativa do cidadão comum.
+O projeto desenvolvido no segundo semestre de 2025 consistiu no desenvolvimento de uma **Plataforma de Inteligência de Dados Orientada à Mobilidade Urbana**, voltada para o monitoramento de radares e fluxo viário do município de São José dos Campos. O sistema realiza a ingestão e a análise de grandes volumes de dados de telemetria urbana, transformando registros brutos de tráfego em _dashboards_ interativos e indicadores gerenciais estratégicos. O produto foi projetado para atender tanto às demandas operacionais de gestores públicos da **Prefeitura de São José dos Campos** quanto às necessidades de consulta informativa do cidadão comum.
 
 ### 1.1 Objetivo Geral
 

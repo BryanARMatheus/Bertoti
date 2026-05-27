@@ -2,7 +2,7 @@
 ---
 ## 1. Descrição do Projeto
 
-O projeto desenvolvido no segundo semestre de 2025 consistiu no desenvolvimento de um **Sistema de Avaliação baseado na Metodologia PACER** (Proatividade, Autonomia, Colaboração e Entrega de Resultados). A aplicação foi projetada para atuar como uma plataforma de gestão de desempenho, automatizando o processo de avaliação entre colegas em suas competências comportamentais (_soft skills_).
+O projeto desenvolvido no segundo semestre de 2024 consistiu no desenvolvimento de um **Sistema de Avaliação baseado na Metodologia PACER** (Proatividade, Autonomia, Colaboração e Entrega de Resultados). A aplicação foi projetada para atuar como uma plataforma de gestão de desempenho, automatizando o processo de avaliação entre colegas em suas competências comportamentais (_soft skills_).
 
 ### 1.1 Objetivo Geral
 
